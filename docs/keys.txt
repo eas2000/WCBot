@@ -1,0 +1,5 @@
+﻿AppName:Alegeus Wealthcare Bot
+App ID :  7e1b1c23-b4e1-4c9f-9b56-e0d5690d47aa
+
+Pass:
+jLcicykJQGoiejbOK8MuGV1
